@@ -1,17 +1,3 @@
-# 冴羽的博客
-
-## 最新
-
-2022 年 5 月 27 日 更新冴羽答读者问系列
-
-## 公众号
-
-|微信（冴羽本人）|公众号|
-|:----:|:----:|
-|<img src="https://user-images.githubusercontent.com/11458263/156172823-5af1316e-2a3e-4f48-9908-682a74adb540.jpeg" width="120">|<img src="https://cdn.jsdelivr.net/gh/mqyqingfeng/picture/qrcode_for_gh_bd1a3dc9eafd_258.jpg" width="120">|
-|mqyqingfeng|冴羽的 JavaScript 博客|
-|进冴羽的读者群|文章同步更新|
-
 ## 专栏
 
 * [掘金](https://juejin.im/user/58e4b9b261ff4b006b3227f4)
@@ -20,7 +6,7 @@
 * [语雀](https://www.yuque.com/qingyu-fasl3/od8gmv)
 * [慕课](https://www.imooc.com/u/306841)
 
-## 冴羽答读者问
+## 答读者问
 
 1. [30 岁了， 现在开始努力，晚吗？](https://github.com/mqyqingfeng/Blog/issues/280)
 2. [何时能够像你一样优秀？](https://github.com/mqyqingfeng/Blog/issues/281) 
@@ -192,12 +178,3 @@
 
 深入系列文章部分是有先后顺序的，按照目录结构顺序阅读效果最好。
 
-## 勘误及提问
-
-如果有疑问或者发现错误，可以在相应的 issues 进行提问或勘误。
-
-如果喜欢或者有所启发，欢迎 star，对作者也是一种鼓励。
-
-## License
-
-所有文章采用[知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议](http://creativecommons.org/licenses/by-nc-sa/3.0/cn/)进行许可。
